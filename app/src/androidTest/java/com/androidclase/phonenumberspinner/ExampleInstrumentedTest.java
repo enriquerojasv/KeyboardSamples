@@ -1,4 +1,4 @@
-package com.androidclase.keyboardsamples;
+package com.androidclase.phonenumberspinner;
 
 import android.content.Context;
 
